@@ -1460,6 +1460,7 @@ footer {
   }
   .btn {
     line-height: 1.5;
+    width: 100%;
   }
   .plan__price {
     font-size: 36px;

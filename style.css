@@ -475,6 +475,8 @@ header {
 }
 .quality__img {
   z-index: 1;
+  height: 100%;
+  width: auto;
 }
 
 /* STEPS */
@@ -589,8 +591,8 @@ header {
   align-items: center;
 }
 .value__img {
-  width: 20px;
-  height: 20px;
+  width: 100%;
+  height: auto;
 }
 .value:nth-child(1) .value__img--wrapper {
   background-color: #9ae6b4;

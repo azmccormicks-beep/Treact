@@ -475,8 +475,8 @@ header {
 }
 .quality__img {
   z-index: 1;
-  height: 100%;
-  width: auto;
+  height: 300px;
+  
 }
 
 /* STEPS */

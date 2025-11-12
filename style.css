@@ -177,10 +177,9 @@ nav {
   background-color: rgba(80, 17, 204);
   color: white;
 }
-.fa-solid {
+.fa-solid.fa-bars {
   display: none;
 }
-
 
 .login {
   margin-left: 48px;
@@ -1199,7 +1198,7 @@ footer {
   .nav__links {
     display: none;
   }
-  .fa-solid {
+  .fa-solid.fa-bars {
     display: block;
   }
   header .row {

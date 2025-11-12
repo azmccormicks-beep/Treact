@@ -177,6 +177,10 @@ nav {
   background-color: rgba(80, 17, 204);
   color: white;
 }
+.fa-solid {
+  display: none;
+}
+
 
 .login {
   margin-left: 48px;
@@ -191,9 +195,6 @@ nav {
   font-weight: bold;
   transition: all 300ms ease;
   cursor: pointer;
-}
-.fa-solid {
-  display: none;
 }
 
 .btn__menu--svg:hover {
@@ -1198,7 +1199,7 @@ footer {
   .nav__links {
     display: none;
   }
-  .fa-bars {
+  .fa-solid {
     display: block;
   }
   header .row {

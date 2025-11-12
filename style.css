@@ -192,12 +192,10 @@ nav {
   transition: all 300ms ease;
   cursor: pointer;
 }
-.fa-bars{
-  background-color: transparent;
-  border: none;
+.fa-bars {
   display: none;
-  transition: all 300ms ease;
 }
+
 .btn__menu--svg:hover {
   filter: invert(26%) sepia(94%) saturate(7476%) hue-rotate(261deg)
     brightness(94%) contrast(115%);
@@ -475,7 +473,6 @@ header {
 .quality__img {
   z-index: 1;
   height: 300px;
-  
 }
 
 /* STEPS */
@@ -1201,11 +1198,8 @@ footer {
   .nav__links {
     display: none;
   }
-  .fa-solid 
-   {
+  .fa-solid {
     display: block;
-    cursor: pointer;
-
   }
   header .row {
     flex-direction: column;
